@@ -1,0 +1,3 @@
+rootProject.name='TestDependency'
+include ':app'
+include ':testlibrary'
